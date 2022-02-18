@@ -10,9 +10,10 @@
   "homepage": "https://next-auth-example.vercel.app",
   "main": "",
   "scripts": {
-    "dev": "next",
+       "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "lint": "next lint",
     "types": "tsc --noEmit"
   },
   "author": "Iain Collins <me@iaincollins.com>",
